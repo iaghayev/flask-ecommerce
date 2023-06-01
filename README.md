@@ -23,6 +23,7 @@ Demo E-commerce App implemented in flask
     $ flask db migrate -m "Initial Migration"
     $ flask db upgrade  
     ```
+- ### if dont work $ flask db int, you need do this: $ pip uninstall flask, next $ pip install flask 
 
 - ### How to start
     
