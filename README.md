@@ -7,7 +7,7 @@ Demo E-commerce App implemented in flask
 - ### How to setup environment
     
     ```shell script
-    $ git clone git@github.com:amustafayev/flask-ecommerce.git
+    $ git clone https://github.com/iaghayev/flask-ecommerce.git
     $ cd flask-ecommerce
     
     $ virtualenv venv
